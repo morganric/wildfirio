@@ -6,6 +6,7 @@
   "repository": "https://github.com/angular/angular-seed",
   "private": true,
   "license": "MIT",
+	"engines": {     "node": "0.10.26"   }
   "devDependencies": {
     "karma": "~0.10",
     "protractor": "~0.20.1",
